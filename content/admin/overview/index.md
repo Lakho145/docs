@@ -1,4 +1,4 @@
----
+Index. Md---
 title: Overview
 intro: 'You can learn about {% data variables.product.product_name %} and manage{% ifversion ghes %} accounts and access, licenses, and{% endif %} billing.'
 redirect_from:
@@ -6,7 +6,7 @@ redirect_from:
 versions:
   ghes: '*'
   ghae: '*'
-children:
+children:be
   - /about-github-ae
   - /about-upgrades-to-new-releases
   - /about-data-residency
